@@ -5,19 +5,6 @@ Developed in C++ as a console project. The player answers randomly ordered multi
 
 ---
 
-## 📁 Project Structure
-
-```
-📦 MillionaireGame/
- ┣ 📄 main.cpp
- ┣ 📄 Game.h / Game.cpp
- ┣ 📄 Question.h / Question.cpp
- ┣ 📄 questions.txt
- ┗ 📄 README.md
-```
-
----
-
 ## 📌 Features
 
 - ✅ Loads questions from `questions.txt`
